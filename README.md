@@ -1,7 +1,7 @@
 # DPbyD
 
 ## Project Overview
-This project is for our Informatics 2020 Capstone, in which we will create a Data Privacy by Design tool for Avanade software developers to use. 
+This project is for our Informatics 2020 Capstone, in which we will create a Data Privacy by Design tool for software developers to use. 
 
 ## Motivation
 This project is sponsored by Avanade, who wants to take proactive action to protect user data privacy. Once the project term is over, the tool will be fully transferred to the hands of Avanade. 
@@ -30,4 +30,4 @@ Mohneel Parakh *(Back-end developer)* -  <a href="mparakh@gmail.com">mparakh@gma
 Beichen Liang *(Developer)* - <a href="lbc546@uw.edu">lbc546@uw.edu</a>  
 
 ## License
-We have elected *not* to use a license, as Avanade does not wish for the project to be open source, and will retain the IP as a result. In addition, our Github repository must be private. 
+We have elected *not* to use a license, as our code will not be open source, as Avanade will retain IP. In addition, this repository will eventually become private once we enter the development phase. 
