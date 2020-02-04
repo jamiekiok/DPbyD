@@ -27,7 +27,7 @@ For general questions or concerns, please contact our PM below.
 Jion Yi *(PM, Researcher, Dev Support)* - <a href="jiony432@uw.edu">jiony432@uw.edu</a>    
 Jamie Walker *(UX Designer, Dev/PM Support)* - <a href="jamiekw@uw.edu">jamiekw@uw.edu</a>  
 Mohneel Parakh *(Back-end developer)* -  <a href="mparakh@gmail.com">mparakh@gmail.com</a>  
-Beichen Liang *(Developer)* - lbc546@uw.edu - <a href="lbc546@uw.edu">lbc546@uw.edu</a>  
+Beichen Liang *(Developer)* - <a href="lbc546@uw.edu">lbc546@uw.edu</a>  
 
 ## License
 We have elected *not* to use a license, as Avanade does not wish for the project to be open source, and will retain the IP as a result. In addition, our Github repository must be private. 
