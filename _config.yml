@@ -1,4 +1,2 @@
 # Build settings
-remote_theme: rohanchandra/type-theme
-
 theme: jekyll-theme-cayman
