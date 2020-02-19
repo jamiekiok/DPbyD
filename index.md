@@ -5,7 +5,7 @@ layout: default
 This project is for our [Informatics 2020 Capstone course](https://ischool.uw.edu/capstone), in which we will create a Data Privacy by Design tool for software developers to use. With the formulation of data privacy regulations, such as the GDPR and the CCPA, *proactive* approaches to privacy are essential to ensure that the data of users is protected at all steps of the development process.  
 
 ![data privacy principles](/img/7-principles-privacy-by-design.png)
-As shown above, we are folowing the _7 core principles of privacy by design_, as described by [Ann Cavoukian](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/). 
+As shown above, we are folowing the _7 core principles of privacy by design_, as described by [Ann Cavoukian](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/ width="400" height="400"). 
 
 ## Partnership 
 This project is sponsored by **Avanade**, who wants to take proactive action to protect user data privacy. Once the project term is over, the tool will be fully transferred to the hands of Avanade. 
