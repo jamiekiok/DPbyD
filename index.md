@@ -6,3 +6,5 @@ layout: default
 
 <h2> Partnership </h2>
 This project is sponsored by Avanade, who wants to take proactive action to protect user data privacy. Once the project term is over, the tool will be fully transferred to the hands of Avanade. 
+
+## testing again
