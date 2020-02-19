@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1> Mission </h1>
-<p> This project is for our Informatics 2020 Capstone, in which we will create a Data Privacy by Design tool for software developers to use. With the formulation of data privacy regulations, such as the GDPR and the CCPA, *proactive* approaches to privacy are essential to ensure that the data of users is protected at all steps of the development process. </p>   
+<p> TESTING. This project is for our Informatics 2020 Capstone, in which we will create a Data Privacy by Design tool for software developers to use. With the formulation of data privacy regulations, such as the GDPR and the CCPA, *proactive* approaches to privacy are essential to ensure that the data of users is protected at all steps of the development process. </p>   
 
 <h2> Partnership </h2>
 This project is sponsored by Avanade, who wants to take proactive action to protect user data privacy. Once the project term is over, the tool will be fully transferred to the hands of Avanade. 
