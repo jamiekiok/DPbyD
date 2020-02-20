@@ -1,7 +1,10 @@
 ---
 ---
-
-$header-bg-color-secondary: #7b99cd;
-$header-bg-color: #d0faff;
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #d0faff, #7b99cd);
+}
 
 @import "{{ site.theme }}";
