@@ -1,4 +1,12 @@
 ---
 ---
 
+$header-bg-color: #400979;
+$header-bg-color-secondary: #ee871b;
+
+$body-link-color: #7EA7D3;
+$blockquote-text-color: #819198;
+
+$code-text-color: #494D4E;
+
 @import "";
