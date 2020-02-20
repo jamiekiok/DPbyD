@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Data Privacy by Design Compliance Tool
 
 # Mission 
 This project is for our [Informatics 2020 Capstone course](https://ischool.uw.edu/capstone), in which we will create a Data Privacy by Design tool for software developers to use. With the formulation of data privacy regulations, such as the GDPR and the CCPA, *proactive* approaches to privacy are essential to ensure that the data of users is protected at all steps of the development process.  
