@@ -1,7 +1,7 @@
 ---
 ---
 
-$header-bg-color-secondary: #159957;
-$header-bg-color: #155799;
+$header-bg-color-secondary: #7b99cd;
+$header-bg-color: #d0faff;
 
 @import "{{ site.theme }}";
