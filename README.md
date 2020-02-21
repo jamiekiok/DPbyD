@@ -16,7 +16,7 @@ Built with... WIP.
 WIP.
 
 ## Installation
-WIP. 
+WIP...
 
 ## How to use?
 Usage guide will be added when development process begins. 
