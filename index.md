@@ -22,6 +22,6 @@ For general questions, suggestions, or other inquiries - please contact our PM b
 
 **Jion Yi** _(PM, Researcher, Dev Support)_ - jiony432@uw.edu  
 **Jamie Walker** _(UX Designer, Dev/PM Support)_ - jamiekw@uw.edu  
-**Mohneel Parakh** _(Back-end developer)_ - mparakh@gmail.com  
+**Mohneel Parakh** _(Back-end developer)_ - mprakakh@gmail.com  
 **Beichen Liang** _(Developer)_ - lbc546@uw.edu  
 
